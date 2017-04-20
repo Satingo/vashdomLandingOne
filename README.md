@@ -1,2 +1,0 @@
-# vashdomLandingOne
-вашдомкрым.рф
