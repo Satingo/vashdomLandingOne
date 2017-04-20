@@ -59,6 +59,10 @@ h3 {font-size: 19px;}
 h4 {font-size: 17px;}
 h5 {font-size: 15px;}
 
+li {
+	font-size: 1.25em;
+}
+
 .button {
     position: relative;
     display: inline-block;
@@ -604,7 +608,7 @@ li.linkedin {
   position: relative;
   display: block;
   padding: .5em 1.6em;
-  font-size: .8em;
+  font-size: .6em;
 /*border-radius*/
   -webkit-border-radius: 30px;
      -moz-border-radius: 30px;
